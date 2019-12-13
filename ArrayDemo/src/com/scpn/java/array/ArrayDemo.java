@@ -20,6 +20,7 @@ public class ArrayDemo {
 		System.out.println("max number is "+max+" and is present in array "+count+" times");
 		System.out.println("Hello");
 		System.out.println("hii.....");
+		System.out.println("JAI SHRI RAM!!!.....");
 	}
 	
 }
